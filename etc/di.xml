@@ -1,0 +1,5 @@
+<config>
+    <type name="Magento\Framework\Registry">
+        <plugin name="Osarz_Test_LogRegistry" type="Osarz\LogRegistry\Plugin\LogRegistry" sortOrder="1" disabled="false"/>
+    </type>
+</config>
